@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Time To Make History【P4G】",
+  "base_artist": "平田志穂子",
+  "createdAt": "2026-03-13T12:34:00.513669Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Time To Make History【P4G】",
+      "artist": "平田志穂子",
+      "has_synced": true,
+      "path": "select/01_Time_To_Make_History【P4G】_平田志穂子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Time To Make History 【P4G】",
+      "artist": "Shihoko Hirata",
+      "has_synced": true,
+      "path": "select/02_Time_To_Make_History_【P4G】_Shihoko_Hirata.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Time To Make History",
+      "artist": "平田志穂子",
+      "has_synced": false,
+      "path": "select/pl_01_Time_To_Make_History_平田志穂子.txt"
+    }
+  ]
+}
